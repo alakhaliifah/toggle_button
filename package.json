@@ -2,6 +2,7 @@
   "name": "toggle_button",
   "version": "0.1.0",
   "private": true,
+  "author": {"name": "Abdirahman Ahmed Khalif", "email": "alakhalifah30@gmail.com", "url": "https://github.com/alakhaliifah"},
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
